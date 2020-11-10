@@ -1,0 +1,9 @@
+C:\Users\Виктор\Desktop\TaskManagementApp\TaskManagementApp.Core\bin\Debug\netcoreapp3.1\TaskManagementApp.Core.deps.json
+C:\Users\Виктор\Desktop\TaskManagementApp\TaskManagementApp.Core\bin\Debug\netcoreapp3.1\TaskManagementApp.Core.dll
+C:\Users\Виктор\Desktop\TaskManagementApp\TaskManagementApp.Core\bin\Debug\netcoreapp3.1\TaskManagementApp.Core.pdb
+C:\Users\Виктор\Desktop\TaskManagementApp\TaskManagementApp.Core\obj\Debug\netcoreapp3.1\TaskManagementApp.Core.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\TaskManagementApp\TaskManagementApp.Core\obj\Debug\netcoreapp3.1\TaskManagementApp.Core.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\TaskManagementApp\TaskManagementApp.Core\obj\Debug\netcoreapp3.1\TaskManagementApp.Core.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\TaskManagementApp\TaskManagementApp.Core\obj\Debug\netcoreapp3.1\TaskManagementApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\TaskManagementApp\TaskManagementApp.Core\obj\Debug\netcoreapp3.1\TaskManagementApp.Core.dll
+C:\Users\Виктор\Desktop\TaskManagementApp\TaskManagementApp.Core\obj\Debug\netcoreapp3.1\TaskManagementApp.Core.pdb
